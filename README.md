@@ -1,1 +1,7 @@
-# Bill-Master-Pro-Update
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>1.1.0.0</version>
+    <url>https://raw.githubusercontent.com/sharmasourabh0802-ops/Bill-Master-Pro-Update/main/BillMasterPro_Setup.exe</url>
+    <changelog>https://github.com/sharmasourabh0802-ops/Bill-Master-Pro-Update/blob/main/README.md</changelog>
+    <mandatory>false</mandatory>
+</item>
